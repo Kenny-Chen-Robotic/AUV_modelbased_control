@@ -1,4 +1,4 @@
-# AUV_modelbased_control
+# Introduction
 Realization of model-based controller of autonomous underwater vehicle (AUV). 
 
 Part1: Dynamic / kinematic modelling of AUV.
@@ -6,3 +6,19 @@ Part2: Design of closed-loop controller, including pole assignment method, linea
 Part3: Deployment and validation of controller. (omit)
 
 The package provides simulation codes and the summary report. Simulation result could be reshowed easily by following these steps in document.
+
+<br>  <!-- 这是空行间隔 -->
+
+<div align="center">
+  <img src="images/Cruising.jpg" alt="Cruising" style="width: 650px; height: auto;"/>
+
+  *Figure2: Cruising*
+</div>
+
+
+
+
+
+
+# Advanced research
+RL / MPC in complex fluid enviroment based on AUV.
