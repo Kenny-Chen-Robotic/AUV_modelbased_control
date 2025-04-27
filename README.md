@@ -12,7 +12,7 @@ The package provides simulation codes and the summary report. Simulation result 
 <div align="center">
   <img src="images/Cruising.jpg" alt="Cruising" style="width: 650px; height: auto;"/>
 
-  *Figure2: Cruising*
+  *Figure1: experiment*
 </div>
 
 
