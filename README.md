@@ -10,7 +10,7 @@ The package provides simulation codes and the summary report. Simulation result 
 <br>  <!-- 这是空行间隔 -->
 
 <div align="center">
-  <img src="images/Experiment.jpg" alt="Experiment" style="width: 650px; height: auto;"/>
+  <img src="images/Experiment.png" alt="Experiment" style="width: 650px; height: auto;"/>
 
   *Figure1: experiment*
 </div>
