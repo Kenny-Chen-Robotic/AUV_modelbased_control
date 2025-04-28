@@ -21,4 +21,4 @@ The package provides simulation codes and the summary report. Simulation result 
 
 
 # Advanced research
-RL / MPC in complex fluid enviroment based on AUV.
+Realization of RL / MPC in complex fluid enviroment based on AUV platform.
